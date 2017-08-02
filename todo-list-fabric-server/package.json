@@ -1,7 +1,7 @@
 {
   "name": "toodles",
-  "version": "1.0.0",
-  "description": "A demonstration Node.js web application on Hyperledger Fabric.",
+  "version": "1.0.1",
+  "description": "一个 用Node.js编写的构建在Hyperledger Fabric 之上的网络应用.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"

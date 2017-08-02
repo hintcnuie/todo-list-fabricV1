@@ -45,11 +45,11 @@
         justify-content: flex-end;
       }
     </style>
-    <p id="title">Add a location</p>
+    <p id="title">增加一个地址</p>
     <toodles-input id="field" on-textfield_enter="onSubmit"></toodles-input>
     <div class="buttons">
-      <button on-click="onCancel">Cancel</button>
-      <button on-click="onOk">OK</button>
+      <button on-click="onCancel">取消</button>
+      <button on-click="onOk">确定</button>
     </div>
   </template>
   <script>
@@ -59,7 +59,7 @@
       connectedCallback() {
         super.connectedCallback();
 
-        this.$.field.placeholder = 'Location';
+        this.$.field.placeholder = '地点';
         this.$.field.return = true;
         this.$.field.focus();
       }      

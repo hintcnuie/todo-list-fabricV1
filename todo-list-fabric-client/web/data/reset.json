@@ -24,43 +24,43 @@
     {
       "id": "281efe43-eb66-4871-9875-bc2f9e200435",
       "account": "4b56f041-eec7-4247-8ae5-55380e6c9a12",
-      "name": "Home"
+      "name": "家"
     }, {
       "id": "e9693fca-ad33-4aa1-9614-4127563e7dd5",
       "account": "4b56f041-eec7-4247-8ae5-55380e6c9a12",
-      "name": "Work"
+      "name": "工作"
     }, {
       "id": "99a8e5d9-79b9-4d06-8abe-9f534b74037c",
       "account": "4b56f041-eec7-4247-8ae5-55380e6c9a12",
-      "name": "Cave"
+      "name": "洞穴"
     }, {
       "id": "b5d03c56-78b4-44cf-883b-3696ae07aa9b",
       "account": "4b56f041-eec7-4247-8ae5-55380e6c9a12",
-      "name": "Garage"
+      "name": "车库"
     }, {
       "id": "fa48d454-09cf-4216-a17a-07b317648433",
       "account": "4b56f041-eec7-4247-8ae5-55380e6c9a12",
-      "name": "TKD"
+      "name": "跆拳道馆"
     }, {
       "id": "23a91616-78a0-498c-853a-64e979238a0a",
       "account": "4b56f041-eec7-4247-8ae5-55380e6c9a12",
-      "name": "Groceries"
+      "name": "食品杂货店"
     }, {
       "id": "c4db4872-225f-46f1-915e-c994e8f20aaa",
       "account": "aaad28f4-89c5-453e-bc53-d10905ac94f3",
-      "name": "Home"
+      "name": "家庭"
     }, {
       "id": "a37c44b8-15b5-4fbf-8c6f-69818fc5bfdc",
       "account": "aaad28f4-89c5-453e-bc53-d10905ac94f3",
-      "name": "Work"
+      "name": "公司"
     }, {
       "id": "596402fb-9810-4c74-85fa-d396ccc28dc0",
       "account": "01b5b881-f017-4053-80da-354d2dcf20f7",
-      "name": "Home"
+      "name": "住所"
     }, {
       "id": "27a5b073-e8f5-40d2-bf94-744006f6088d",
       "account": "01b5b881-f017-4053-80da-354d2dcf20f7",
-      "name": "Work"
+      "name": "上班地点"
     }
   ],
   "tasks": [
@@ -71,10 +71,10 @@
       "location": "e9693fca-ad33-4aa1-9614-4127563e7dd5",
       "duration": 5,
       "energy": 2,
-      "tags": "awesome,journey",
-      "notes": "Because Blockchain will revolutionize how you do business.",
+      "tags": "棒极了！区块链之旅！",
+      "notes": "因为区块链会变革现有的商业模式。",
       "complete": false,
-      "name": "Chain All The Things",
+      "name": "把所有的事情链起来",
       "created": 1490464725276
     }, {
       "id": "3c3957e3-076b-4703-9b7a-0490bfd2fd45",
@@ -83,10 +83,10 @@
       "location": "281efe43-eb66-4871-9875-bc2f9e200435",
       "duration": 1,
       "energy": 2,
-      "tags": "repair",
-      "notes": "Because she clogged it with something.",
+      "tags": "修理",
+      "notes": "因为马桶被什么东西堵住了",
       "complete": true,
-      "name": "Fix Paige's Toilet",
+      "name": "修理 Paige的马桶",
       "created": 1490464681491
     }, {
       "id": "9069ee37-3d7c-42ae-b861-059d353f4878",
@@ -95,10 +95,10 @@
       "location": "a37c44b8-15b5-4fbf-8c6f-69818fc5bfdc",
       "duration": 1,
       "energy": 0,
-      "tags": "business",
-      "notes": "Because 37 meetings in a week just is not enough.",
+      "tags": "商业",
+      "notes": "因为每周37个会议还是不够的",
       "complete": false,
-      "name": "Schedule More Meetings",
+      "name": "计划更多的会议",
       "created": 1490464573737
     }, {
       "id": "7d2e88af-da34-4fea-8d3c-91faed1f8425",
@@ -107,10 +107,10 @@
       "location": "596402fb-9810-4c74-85fa-d396ccc28dc0",
       "duration": 4,
       "energy": 2,
-      "tags": "food,friends,happiness",
-      "notes": "Hungarian sponge cake layered with chocolate buttercream and topped with caramel.",
+      "tags": "食物，朋友，幸福",
+      "notes": "匈牙利海绵蛋糕与巧克力奶油分层，并配上焦糖。",
       "complete": false,
-      "name": "Bake Dobos Torte",
+      "name": "烘烤蛋糕",
       "created": 1490464345821
     }
   ]

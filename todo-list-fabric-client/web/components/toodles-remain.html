@@ -44,17 +44,17 @@
           let end = new Date( this._due );
           let now = new Date();
           let difference = moment( end ).diff( now, 'days' );
-          let display = difference + ' days left';
+          let display = difference + '天剩余';
 
           this.$.label.classList.remove( 'shade' );
 
           if( difference == 0 ) {
-            display = 'due today';
+            display = '今天截止';
             this.$.label.classList.add( 'shade' );
           } else if( difference == 1 ) {
-            display = difference + ' day left';
+            display = difference + ' 天剩余';
           } else if( difference < 0 ) {
-            display = Math.abs( difference ) + ' days ago';
+            display = Math.abs( difference ) + ' 天之前';
             this.$.label.classList.add( 'shade' );
           }
 
